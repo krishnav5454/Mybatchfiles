@@ -1,0 +1,34 @@
+
+
+T E R R A F O R M
+
+- Opensource IaaC technology - allows to automate and manage infrastructure(platform and services)
+
+
+usage
+  Provisioning infrastructure on IaaS providers
+  Providers - Resources
+  
+
+Architecture/commands
+TF-Config 
+
+State  (Current state of components build)
+
+Config file
+
+
+commands
+refresh
+plan
+apply
+destroy
+
+
+
+Azure Container Service
+Amazon ECS
+Marathon
+Docker Swarm
+GKE -Google container engine
+
